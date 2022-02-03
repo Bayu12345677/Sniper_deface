@@ -1,4 +1,4 @@
-package_1 = "ncurses_utils"
+package_1 = "ncurses-utils"
 package_2 = "vim"
 
 install:
