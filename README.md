@@ -32,6 +32,7 @@ This tool has many powerful features such as : (smart verify a site that has bee
 
 <br>
 <br>
+
 - `how to setup`
 ```bash
 cd Sniper_inject
@@ -46,5 +47,7 @@ make install
 - http://sgsfreight.com/s.html
 - http://toshibafs.com/s.html
 - http://decision-intel.com/s.html
+
+`happy try :)`
 
 
