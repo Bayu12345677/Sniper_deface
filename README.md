@@ -26,4 +26,25 @@ This tool has many powerful features such as : (smart verify a site that has bee
 
 - `how to activate auto target features`
 > You must create an empty list then it will activate this feature
+<br>
+
+![](https://github.com/Bayu12345677/Sniper_inject/blob/main/img/Screenshot_20220203-084729~2.png)
+
+<br>
+<br>
+- `how to setup`
+```bash
+cd Sniper_inject
+make install
+```
+
+> running : make run
+
+- `result`
+- http://www.ticadesign.co.za/s.html
+- http://mariongeiger.com/s.html
+- http://sgsfreight.com/s.html
+- http://toshibafs.com/s.html
+- http://decision-intel.com/s.html
+
 
