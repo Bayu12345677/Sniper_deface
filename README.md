@@ -39,7 +39,8 @@ cd Sniper_inject
 make install
 ```
 
-> running : make run
+`how to run : make run`
+
 
 - `result`
 - http://www.ticadesign.co.za/s.html
@@ -47,6 +48,8 @@ make install
 - http://sgsfreight.com/s.html
 - http://toshibafs.com/s.html
 - http://decision-intel.com/s.html
+
+<br>
 
 `happy try :)`
 
