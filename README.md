@@ -23,3 +23,7 @@ This tool has many powerful features such as : (smart verify a site that has bee
 <p align="center">
   result<img src="https://github.com/Bayu12345677/Sniper_inject/blob/main/img/Screenshot_20220202-182842~2.png" border="150">
 </p>
+
+- `how to activate auto target features`
+> You must create an empty list then it will activate this feature
+
