@@ -14,7 +14,7 @@
 apt-get update
 apt-get upgrade
 apt-get install git
-git clone https://github.com/Bayu12345677/Sniper_inject
+git clone https://github.com/Bayu12345677/Sniper_deface
 ```
 
 This is a tool that is built using bash to hack against sites that have weaknesses<br>
