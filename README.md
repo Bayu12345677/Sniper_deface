@@ -35,7 +35,7 @@ This tool has many powerful features such as : (smart verify a site that has bee
 
 - `how to setup`
 ```bash
-cd Sniper_inject
+cd Sniper_deface
 make install
 ```
 
